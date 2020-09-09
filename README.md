@@ -8,6 +8,7 @@ Hi, I'm Matan, a Software Engineer passionated about development and entrepreneu
 Experienced in creating Single Page Applications using the latest Web Technology such as React, Vue and Node. I had a passion for programming since being 14 years old. Spend my spare time watching online courses, read and learning the newest frameworks released in order to expand my knowledge.
 
 - :books: a Software Engineer Graduate (B.Sc).
+- :pushpin: Interests: Development, UX, UI Design, and Video Editing.
 - **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -19,4 +20,3 @@ Experienced in creating Single Page Applications using the latest Web Technology
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-- :pushpin: Interests: Development, UX, UI Design, and Video Editing.
